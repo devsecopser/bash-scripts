@@ -6,7 +6,7 @@ echo "
 
 ### Script Prerequists  ###
 
-Run aws configure and pass Access key ID, Secret access key, default region
+Run aws configure and pass Access key ID, Secret access key (aws console -> myuser -> security credentials -> access keys), default region
 
 
 ### Script do the following ###
